@@ -1,4 +1,4 @@
-## Table of Contents
+### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [Licensing](#licensing-authors-acknowledgements)
