@@ -2,7 +2,8 @@
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [Licensing](#licensing-authors-acknowledgements)
-
+4. [File Descriptions](#file-descriptions)
+5. [Results](#results)
 
 ## Installation
 
@@ -10,10 +11,10 @@
 ## Project Motivation
 
 
-#File Descriptions
+## File Descriptions
 
 
-#Results
+## Results
 
 
 ## Licensing, Authors, Acknowledgements
