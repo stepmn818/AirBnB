@@ -1,19 +1,19 @@
 ### Table of Contents
 
 
-# Installation
+#Installation
 
 
-# Project Motivation
+#Project Motivation
 
 
-# File Descriptions
+#File Descriptions
 
 
-# Results
+#Results
 
 
-# Licensing, Authors, Acknowledgements
+#Licensing, Authors, Acknowledgements
 Credit: AirBnB
 Seattle - https://www.kaggle.com/airbnb/seattle
 Boston - https://www.kaggle.com/airbnb/boston
