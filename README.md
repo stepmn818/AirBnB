@@ -9,6 +9,7 @@
 
 
 ## Project Motivation
+For this project, I was interested in using AirBnB data to better understand:
 
 
 ## File Descriptions
