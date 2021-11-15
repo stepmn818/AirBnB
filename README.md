@@ -1,7 +1,7 @@
 # Table of Contents
-[Go to Installations](#installation)
+1. [Installations](#Installation)
 
-#Installation
+## Installation
 
 
 #Project Motivation
