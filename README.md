@@ -1,30 +1,10 @@
 # Table of Contents
-1. [Installation](#Installation)
-2. [Licensing](#Licensing-Authors-Acknowledgements)
+1. [Installation](#installation)
+2. [Project Motivation](#project-motivation)
+3. [Licensing](#licensing-authors-acknowledgements)
 
 
 ## Installation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Project Motivation
