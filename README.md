@@ -1,5 +1,5 @@
-#Table of Contents
-(#installation)
+# Table of Contents
+[Go to Installations](#installation)
 
 #Installation
 
