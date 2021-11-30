@@ -6,7 +6,7 @@
 5. [Results](#results)
 
 ## Installation
-Python 3.9.7 is used for this project. Users can install required libraries for this project using <code> pip install -r /path/to/requirements.txt </code>
+Python 3.9.7 is used for this project. Users can install required libraries for this project using <code> pip install -r requirements.txt </code>
 
 
 ## Project Motivation
