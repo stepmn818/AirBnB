@@ -246,3 +246,4 @@ def create_wordcloud(df, text_col):
     plt.axis("off")
     plt.show()
 
+"defe"
