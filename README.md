@@ -17,8 +17,9 @@ For this project, I was interested in using AirBnB Seattle data to better unders
 4. What features predict AirBNB price?
 
 ## File Descriptions
-Guide others through the files in your repository
-<b>TO BE UPDATED </b>
+There is 1 notebook to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+
+There is a <code>utils.py</code> to run the necessary utilities functions.
 
 ## Results
 The main findings of the code can be found at the post available here (TODO -  add a hyperlink here when the post is ready)
