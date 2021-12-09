@@ -205,6 +205,11 @@ def remove_stopwords(df_row, stopwords_list):
 
 
 def lemmatize_text(filtered_words_list):
+    '''
+    Takes a word list and converts the words into its meaningful base form
+    :param filtered_words_list: a list of words after removing punctuation and stopwords
+    :return: a list of words in their base forms
+    '''
     from nltk.stem import WordNetLemmatizer
 
     lemmatized_words = []
@@ -238,7 +243,6 @@ def create_wordcloud(df, text_col):
 
     # Generate a word cloud image
     wordcloud = WordCloud(collocations=True, stopwords=stopwords, background_color="white").generate(text)
-    print("wordcloud words:", wordcloud.words_)
 
     # Display the generated image
     plt.figure(figsize=(14, 12))
