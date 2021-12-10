@@ -250,3 +250,24 @@ def create_wordcloud(df, text_col):
     plt.axis("off")
     plt.show()
 
+
+def generate_colors(category_list):
+    '''
+    Generates random colors for each element in the category list
+    :param category_list: a list of categories
+    :return: a dict {category: color}
+    '''
+    import random
+
+    random.seed(120)
+
+    colors = {}
+    colors_list = []
+    category_list = category_list.unique()
+
+    for reference in category_list:
+        color = "#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)])
+        colors[reference] = color
+        colors_list.append(color)
+    return colors, colors_list
+
