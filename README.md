@@ -12,18 +12,16 @@ Python 3.9.7 is used for this project. The code should run with no issues using 
 ## Project Motivation
 For this project, I was interested in using AirBnB Seattle data to better understand:
 1. What is the busiest time to visit Seattle?
-2. What is the vibe of the areas in Seattle?
-3. How has the price of AirBNB changed over time?
-4. What features predict AirBNB price?
+2. Where are popular properties located?
+3. What is the vibe of the areas in Seattle?
 
 ## File Descriptions
-There is 1 notebook to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+The <code>AirBnB Seattle.ipynb</code> is the notebook to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 There is a <code>utils.py</code> to run the necessary utilities functions.
 
 ## Results
-The main findings of the code can be found at the post available here (TODO -  add a hyperlink here when the post is ready)
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
+The main findings of the code can be found at the post available [here] (https://medium.com/@stephanie.lwy/airbnb-seattle-analysis-d7cb1cffbf78)
 
 ## Licensing, Authors, Acknowledgements
 Credit: <br>
