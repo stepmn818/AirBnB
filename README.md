@@ -21,7 +21,7 @@ The <code>AirBnB Seattle.ipynb</code> is the notebook to showcase work related t
 There is a <code>utils.py</code> to run the necessary utilities functions.
 
 ## Results
-The main findings of the code can be found at the post available [here] (https://medium.com/@stephanie.lwy/airbnb-seattle-analysis-d7cb1cffbf78)
+The main findings of the code can be found at the post available [here](https://medium.com/@stephanie.lwy/airbnb-seattle-analysis-d7cb1cffbf78)
 
 ## Licensing, Authors, Acknowledgements
 Credit: <br>
